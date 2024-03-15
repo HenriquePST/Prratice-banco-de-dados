@@ -17,3 +17,7 @@
 ---
  [Praticando]( https://github.com/HenriquePST/Prratice-banco-de-dados/tree/main/Modelagem )
 
+
+ ![image](https://github.com/HenriquePST/Prratice-banco-de-dados/assets/92328563/782b1322-2191-4993-8145-cd45d1078642)
+
+
