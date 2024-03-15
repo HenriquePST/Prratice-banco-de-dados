@@ -1,0 +1,2 @@
+ALTER TABLE endereco
+ADD cidade VARCHAR (100) NOT NULL;
