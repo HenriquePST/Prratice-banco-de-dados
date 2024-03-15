@@ -15,4 +15,5 @@
   - **DCL** (Linguagem de Controle de Dados), que inclui comandos como GRANT, e principalmente relacionado com direitos, permissões e outros controles do sistema de banco de dados.
   
 ---
-<a name="Praticando"> https://github.com/HenriquePST/Prratice-banco-de-dados/tree/main/Modelagem  </a>
+ [Praticando]( https://github.com/HenriquePST/Prratice-banco-de-dados/tree/main/Modelagem )
+
