@@ -14,8 +14,9 @@
   - **DQL**  linguagem de consulta de dados,s comandos DQL são basicamente instruções SELECT. Portanto, as instruções SELECT permitem consultar o banco de dados para localizar informações em uma ou mais tabelas e retornar à consulta como um conjunto de resultados.
   
 ---
- [DDL - linguagem de Definição de Dados) ]( https://github.com/HenriquePST/Prratice-banco-de-dados/tree/main/DDL%20DML%20DQL )
-
+ [Query na Pratica ) ]( https://github.com/HenriquePST/Pratice-banco-de-dados/tree/main/DDL%20DML%20DQL )
+ 
+---
 
  (![image](https://github.com/HenriquePST/Prratice-banco-de-dados/assets/92328563/09cc1ec6-76dd-4916-b6d9-f89d179a7be7)
 
