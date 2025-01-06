@@ -1,13 +1,5 @@
 # Banco de Dados _ SQLSERVER
 
-Ano: 2025
-
-### Macetes
-
-select nome from cliente with (nolock) = O `WITH (NOLOCK)` é útil para melhorar o desempenho de consultas em sistemas com alta concorrência, mas deve ser usado com cautela, pois pode resultar em **leitura de dados inconsistentes.** 
-
-Força o que ainda nao foi realizado o commit 
-
 ### Visão geral das bases de dados de Sistema do SQL SERVER
 
 ### 📌 **Resumo**
