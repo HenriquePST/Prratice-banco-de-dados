@@ -18,7 +18,7 @@
  
 ---
 
- (![image](https://github.com/HenriquePST/Prratice-banco-de-dados/assets/92328563/09cc1ec6-76dd-4916-b6d9-f89d179a7be7)
+
 
 
 
