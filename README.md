@@ -6,7 +6,7 @@
 
 ---
 
-## **Comandos SQL - DDL DML DCL DQL * 
+## **Comandos SQL - DDL DML DCL DQL ** 
 
   - **DDL** (Linguagem de Definição de Dados), que lida com esquemas e descrições de banco de dados. São comandos DDL : CREATE, ALTER e DROP
   - **DML** (Linguagem de Manipulação de Dados), que lida com a manipulação de dados e inclui instruções SQL mais comuns, como SELECT, INSERT, UPDATE, DELETE etc.
